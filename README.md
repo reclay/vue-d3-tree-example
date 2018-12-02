@@ -1,4 +1,5 @@
 ## 结果预览
+[github pages](https://reclay.github.io/vue-d3-tree-example/)  
 ![](./preview.jpg)
 
 ## vue 和 d3 的角色
